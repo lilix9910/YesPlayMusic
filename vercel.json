@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://github.com/lilix9910/YesPlayMusic/:match*"
+      "destination": "https://github.com/lilix9910/NeteaseCloudMusicApi/:match*"
     }
   ]
 }
